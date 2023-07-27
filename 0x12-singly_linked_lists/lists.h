@@ -10,7 +10,7 @@
  * Description: singly linked list node structure
  * for Holberton project
  */
-typedef struct list8s
+typedef struct list_s
 {
 	char *str;
 	unsigned int len;
